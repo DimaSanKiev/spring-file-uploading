@@ -18,7 +18,8 @@ run {
 }
 
 jar {
-    baseName = 'gs-uploading-files'
+    group = 'io.spring'
+    baseName = 'spring-files-uploading'
     version = '0.1.0'
 }
 
